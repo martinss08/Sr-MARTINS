@@ -22,7 +22,7 @@
   <tr>
     <td><strong>Repositorios publicos</strong><br>32</td>
     <td><strong>Projetos proprios</strong><br>32</td>
-    <td><strong>Commits publicos</strong><br>432</td>
+    <td><strong>Commits publicos</strong><br>433</td>
     <td><strong>Linguagem mais usada</strong><br>PHP</td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
 <!--START_SECTION:featured-projects-->
 | Projeto | Stack | Status |
 | --- | --- | --- |
-| [Sr-MARTINS](https://github.com/martinss08/Sr-MARTINS) | JavaScript | Projeto em evolucao |
+| [martinss08](https://github.com/martinss08/martinss08) | JavaScript | Projeto em evolucao |
 | [deploy-pro](https://github.com/martinss08/deploy-pro) | HTML | Projeto em evolucao |
 | [teste-electra](https://github.com/martinss08/teste-electra) | PHP | Projeto em evolucao |
 | [arquitetura-backend-escalavel](https://github.com/martinss08/arquitetura-backend-escalavel) | Blade | Projeto em evolucao |
