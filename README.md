@@ -29,12 +29,12 @@
   <tr>
     <td><strong>Repositorios publicos</strong><br>32</td>
     <td><strong>Projetos proprios</strong><br>32</td>
-    <td><strong>Commits publicos</strong><br>393</td>
+    <td><strong>Commits publicos</strong><br>432</td>
     <td><strong>Linguagem mais usada</strong><br>PHP</td>
   </tr>
 </table>
 
-Atualizado automaticamente em 13/06/2026, 12:09 pelo GitHub Actions.
+Atualizado automaticamente em 13/06/2026, 12:15 pelo GitHub Actions.
 <!--END_SECTION:github-metrics-->
 
 ### Stack principal
@@ -65,10 +65,10 @@ Atualizado automaticamente em 13/06/2026, 12:09 pelo GitHub Actions.
 <!--START_SECTION:featured-projects-->
 | Projeto | Stack | Status |
 | --- | --- | --- |
+| [Sr-MARTINS](https://github.com/martinss08/Sr-MARTINS) | JavaScript | Projeto em evolucao |
 | [deploy-pro](https://github.com/martinss08/deploy-pro) | HTML | Projeto em evolucao |
 | [teste-electra](https://github.com/martinss08/teste-electra) | PHP | Projeto em evolucao |
 | [arquitetura-backend-escalavel](https://github.com/martinss08/arquitetura-backend-escalavel) | Blade | Projeto em evolucao |
-| [teste-estagio](https://github.com/martinss08/teste-estagio) | PHP | Projeto em evolucao |
 <!--END_SECTION:featured-projects-->
 
 <details>
